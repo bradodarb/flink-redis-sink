@@ -1,1 +1,1 @@
-# flink-redis-sink
+# flink-redis-connectors
