@@ -1,1 +1,1 @@
-# flink-redis-connectors
+# fredis
